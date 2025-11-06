@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projeto_PokeApi/static/css/main.f91cb447.css",
+    "main.js": "/Projeto_PokeApi/static/js/main.ec89b7d4.js",
+    "static/js/787.e02f81c6.chunk.js": "/Projeto_PokeApi/static/js/787.e02f81c6.chunk.js",
+    "index.html": "/Projeto_PokeApi/index.html",
+    "main.f91cb447.css.map": "/Projeto_PokeApi/static/css/main.f91cb447.css.map",
+    "main.ec89b7d4.js.map": "/Projeto_PokeApi/static/js/main.ec89b7d4.js.map",
+    "787.e02f81c6.chunk.js.map": "/Projeto_PokeApi/static/js/787.e02f81c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91cb447.css",
+    "static/js/main.ec89b7d4.js"
+  ]
+}
