@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Fogo */
+.pokemon-card.fire:hover {
+  background-color: #f08030;
+  color: white;
+}
+
+/* Água */
+.pokemon-card.water:hover {
+  background-color: #6890f0;
+  color: white;
+}
+
+/* Planta */
+.pokemon-card.grass:hover {
+  background-color: #78c850;
+  color: white;
+}
+
+/* Elétrico */
+.pokemon-card.electric:hover {
+  background-color: #f8d030;
+  color: black;
+}
+
+/* Lutador */
+.pokemon-card.fighting:hover {
+  background-color: #c03028;
+  color: white;
+}
+
+/* Venenoso */
+.pokemon-card.poison:hover {
+  background-color: #a040a0;
+  color: white;
+}
+
+/* Normal */
+.pokemon-card.normal:hover {
+  background-color: #a8a878;
+  color: white;
+}
+
+/* Terra */
+.pokemon-card.ground:hover {
+  background-color: #e0c068;
+  color: black;
+}
